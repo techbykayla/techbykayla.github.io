@@ -1,3 +1,8 @@
+article {
+  max-width: 500px;
+  padding: 20px;
+  margin: 0 auto;
+}
 h2 {
   color: red;
 }
@@ -9,4 +14,15 @@ header {
   background: url("https://lh3.googleusercontent.com/d/1jQ2ucLg82uzj-Y01XorbPN4M7O16WvkT/view");
   background-size: cover;
   color: white;
+}
+a {
+  color: white;
+}
+li {
+ display: inline;
+ padding: 0px 10px 0px 10px;
+}
+ul {
+  padding: 10px;
+  background: rgba(0,0,0,0.5);
 }
